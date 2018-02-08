@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name":"Fabio Guelfi",
+        "email":"fabioguelfiunix@gmail.com"
+    },
+    {
+        "id": 2,
+        "name":"Milton Camara",
+        "email":"milton.camara@hertz-int.com.br"
+    },
+    {
+        "id": 3,
+        "name":"Talita Lona",
+        "email":"talita.lona@hertz-int.com.br"
+    }
+
+]
